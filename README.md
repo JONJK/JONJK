@@ -1,23 +1,16 @@
-# Angel Jaime
+# Hola , Mi Nombre Es Jhon Stiven ,Soy Desarrollador De Software Apasionado A La Programacion
 
 <h2 align="center">About me</h2>
 
-```golang
-package main
+```rust
 
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
+fn main() {
 	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
+		println!("%+v: %+v\n", k, v)
 	}
 }
 
-func GetBio() Bio {
+fn GetBio(){
 	return Bio{
 		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
 		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
