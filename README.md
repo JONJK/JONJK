@@ -1,4 +1,4 @@
-# Hola , Mi Nombre Es Jhon Stiven ,Soy Desarrollador De Software Apasionado A La Programacion
+<strong> Hola , Mi Nombre Es Jhon Stiven ,Soy Desarrollador De Software Apasionado A La Programacion <strong>
 
 <h2 align="center">About me</h2>
 
