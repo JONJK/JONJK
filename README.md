@@ -36,7 +36,7 @@ assert_eq!(
 <p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado</p>
 <p align="center">
   <a href="https://stackshare.io/caicedomosquerajhonstiven/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="JONJK :: StackShare" />
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="JhonTreft :: StackShare" />
   </a>
 </p>
 
@@ -44,15 +44,15 @@ assert_eq!(
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{JONJK}/count.svg" alt="JONJK :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{JhonTreft}/count.svg" alt="JhonTreft :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JONJK&langs_count=10&theme=tokyonight&layout=compact" alt="JONJK :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonTreft&langs_count=10&theme=tokyonight&layout=compact" alt="JhonTreft :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JONJK&show_icons=true&theme=synthwave" alt="JONJK :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JhonTreft&show_icons=true&theme=synthwave" alt="JhonTreft :: Profile Stats" /></p>
 
 
 
