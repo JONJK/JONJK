@@ -33,7 +33,7 @@ assert_eq!(
 
 <h2 align="center">🖥 Tecnologias Que Manejo </h2>
 
-<p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado (mucho o poco) en el pasado</p>
+<p align="center">Herramientas que uso a diario, o que he usado o con las que he trabajado</p>
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="JONJK :: StackShare" />
