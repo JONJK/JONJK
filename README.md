@@ -1,15 +1,28 @@
-<strong> Hola , Mi Nombre Es Jhon Stiven ,Soy Desarrollador De Software Apasionado A La Programacion <strong>
+<strong> Hello , Mi Nombre Es Jhon Stiven ,Y Soy Apasionado A La Programacion <strong>
 
 <h2 align="center">About me</h2>
 
 ```rust
+use std::net::{IpAddr, Ipv6Addr};
 
 fn main(){
-
+let addr = IpAddr::from([
+    525u16, 524u16, 523u16, 522u16,
+    521u16, 520u16, 519u16, 518u16,
+]);
+assert_eq!(
+    IpAddr::V6(Ipv6Addr::new(
+        0x20d, 0x20c,
+        0x20b, 0x20a,
+        0x209, 0x208,
+        0x207, 0x206
+    )),
+    addr
+);
 }
 ```
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2 align="center">Me Pueden Encontrar Por Aqui:</h2>
 
 <p align="center">
   
@@ -18,7 +31,7 @@ fn main(){
   </a>
 </p>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="center">Tecnologias Que Manejo </h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
